@@ -1,0 +1,14 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Á³öÆ
+E
+java:S3740"/Provide the parametrized type for this generic.(Á³öÆ
+‹
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Æ¡é­ûÿÿÿÿ
+^
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(Ø†’È
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ŸÏ˜€þÿÿÿÿ
+7
+java:S11162"Remove this empty statement.(ôŸŽìúÿÿÿÿ

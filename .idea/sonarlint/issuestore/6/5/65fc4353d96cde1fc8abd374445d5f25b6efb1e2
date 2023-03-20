@@ -1,0 +1,12 @@
+
+†
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(äû¤”
+j
+java:S1104/"OMake dat a static final constant or non-public and provide accessors if needed.(Û¸¾çøÿÿÿÿ
+g
+java:S11040"QMake level a static final constant or non-public and provide accessors if needed.(Ì–íï
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ˆ¬è
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

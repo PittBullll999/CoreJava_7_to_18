@@ -1,0 +1,15 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ä»çÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "max" local variable.(“»ïüøÿÿÿÿ
+F
+java:S1172)"+Remove this unused method parameter "prev".(™²á‚ûÿÿÿÿ
+C	java:S108,")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'java.awt.image.ImageProducer'.(ô³¸Ûüÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

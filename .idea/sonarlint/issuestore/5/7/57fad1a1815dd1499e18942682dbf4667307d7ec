@@ -1,0 +1,17 @@
+
+œ
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ß•ıÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†¦€®
+P
+java:S1854"5Remove this useless assignment to local variable "t".(÷¢ÖÊşÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(÷¢ÖÊşÿÿÿÿ
+A
+java:S1481"&Remove this unused "t" local variable.(÷¢ÖÊşÿÿÿÿ
+F
+java:S1144
+"+Remove this unused private "insert" method.(“ß•ıÿÿÿÿ
+A
+java:S1144"+Remove this unused private "delete" method.(†¦€®

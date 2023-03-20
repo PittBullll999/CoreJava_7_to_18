@@ -1,0 +1,20 @@
+
+f
+java:S1149%"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ã¦Ò
+L
+java:S1854"6Remove this useless assignment to local variable "ts".(™“Ú©
+@
+java:S1197"*Move the array designators [] to the type.(¾á‰ÿ
+=
+java:S1481"'Remove this unused "ts" local variable.(™“Ú©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¼«—éøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÂ±µ
+Q	java:S125"<This block of commented-out lines of code should be removed.(è“ŸÁ
+V	java:S125"<This block of commented-out lines of code should be removed.(ìÁ±øÿÿÿÿ
+A
+java:S1168#"+Return an empty collection instead of null.(¥¹ï
+`
+java:S1155N">Use isEmpty() to check whether the collection is empty or not.(€ŸËşÿÿÿÿ8€ù˜é0
+`
+java:S1155s">Use isEmpty() to check whether the collection is empty or not.(€ŸËşÿÿÿÿ8…ù˜é0

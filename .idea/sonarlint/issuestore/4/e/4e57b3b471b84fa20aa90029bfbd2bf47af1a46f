@@ -1,0 +1,12 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "pos".(¥σκυ
+R
+java:S1854"7Remove this useless assignment to local variable "pos".(ω¥σχώÿÿÿÿ
+C
+java:S1481
+"(Remove this unused "pos" local variable.(ΑΘΐύÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ϊ²ί¤ύÿÿÿÿ
+?
+java:S1481")Remove this unused "lpos" local variable.(…½ΒΖ

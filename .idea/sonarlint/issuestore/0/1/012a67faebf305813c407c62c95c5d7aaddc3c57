@@ -1,0 +1,15 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "e".(÷€ç∞
+<
+java:S1481"&Remove this unused "e" local variable.(÷€ç∞
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¥ï˛
+V	java:S125"<This block of commented-out lines of code should be removed.(∑‚Æ§˘ˇˇˇˇ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(àà¥È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àà¥È
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(≤è†ˆ
+t
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ
+M
+java:S1135/"2Complete the task associated to this TODO comment.(’ÃêÆ˛ˇˇˇˇ

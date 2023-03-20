@@ -1,0 +1,8 @@
+
+7
+java:S1643"Use a StringBuilder instead.(ÉÄäýúÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "r".(ÌÐà¿ûÿÿÿÿ
+A
+java:S1481"&Remove this unused "r" local variable.(ÌÐà¿ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ
