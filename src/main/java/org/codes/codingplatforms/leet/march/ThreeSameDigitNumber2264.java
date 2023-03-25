@@ -12,7 +12,7 @@ public class ThreeSameDigitNumber2264 {
             String s=num.substring(i,i+3);
             if(isSame(s))
             {
-                
+
                 if(max.equals(""))
                 {
                     max=s;
