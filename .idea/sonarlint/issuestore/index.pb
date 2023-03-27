@@ -131,3 +131,11 @@ y
 Isrc/main/java/org/codes/codingplatforms/leet/march/CamelCaseMatching.java,c\c\cc7b3bfc7aae7eeec7345045a2f28676e432b618
 r
 Bsrc/main/java/org/codes/codingplatforms/leet/march/BSTCousins.java,8\8\88280c7656cff706e4a06e4d2260d4db5093fdeb
+h
+8src/main/java/org/codes/algorithms/KadanesAlgorithm.java,1\f\1f231b5bbc7f0ecf182144dbe4394010f7cdff63
+Q
+!src/main/java/org/codes/Main.java,f\f\ff44e2d4ec8309ea2305d9e83b637b4116aadd83
+|
+Lsrc/main/java/org/codes/codingplatforms/codingninjas/ContainsDuplicate2.java,6\0\6016bb58a2cb73f13f1d238c0bbcf5f04a7bd917
+|
+Lsrc/main/java/org/codes/codingplatforms/leet/december2022/BrokenLetters.java,2\d\2d3c7661eaa1d7d7fd5054593fb2687a495ce459

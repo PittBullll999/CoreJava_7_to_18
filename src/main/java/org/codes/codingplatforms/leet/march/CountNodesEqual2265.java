@@ -20,37 +20,36 @@ public class CountNodesEqual2265 {
     public int averageOfSubtree(TreeNode root) {
 
         traverse(root);
-
+        System.out.println(count);
         return count;
 
 
 
     }
-    private int traverse(TreeNode node)
+    private int[] traverse(TreeNode node)
     {
-        int leftNode_val=0;
-        int rightNode_val=0;
-        int leftCount=0;
-        int rightCount=0;
+        int leftNode_val[]=new int[2];
+        int rightNode_val[]=new int[2];
+
         int average=0;
         if(node.left!=null)
         {
-            leftCount=1;
+
             leftNode_val=traverse(node.left);
 
         }
         if(node.right!=null)
         {
-            rightCount=1;
+
             rightNode_val=traverse(node.right);
 
         }
-        average=(node.val+leftNode_val+rightNode_val)/(1+leftCount+rightCount);
+        average=(node.val+leftNode_val[1]+rightNode_val[1])/(1+leftNode_val[0]+rightNode_val[0]);
         if(average==node.val)
         {
             count+=1;
         }
-        return average;
+        return new int[]{1+leftNode_val[0]+rightNode_val[0],node.val+leftNode_val[1]+rightNode_val[1]};
 
     }
 }
