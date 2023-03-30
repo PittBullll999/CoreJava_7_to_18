@@ -1,0 +1,8 @@
+
+2
+java:S1643"Use a StringBuilder instead.(¤Ã’
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊëÉéÿÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ŽàÿÖûÿÿÿÿ
+_
+java:S1858"D"s" is already a string, there's no need to call "toString()" on it.(ŽàÿÖûÿÿÿÿ
