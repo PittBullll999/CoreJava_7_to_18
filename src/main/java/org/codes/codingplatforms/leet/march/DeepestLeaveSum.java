@@ -7,10 +7,15 @@ import java.util.TreeMap;
 
 public class DeepestLeaveSum {
     SortedMap<Integer, List<Integer>> sortedMap=new TreeMap<>();
-    public int deepestLeavesSum(TreeNode root) {
-        traverse(root,0);
-        return sortedMap.get(sortedMap.lastKey()).stream().reduce(0, (a, b) -> a + b);
+    int depth;
 
+
+    public int deepestLeavesSum(TreeNode root) {
+
+        int sum=0;
+        findDepth(root,0);
+        updateSum(root,sum,0);
+        return sum;
     }
     private void traverse(TreeNode node,int level)
     {
@@ -34,6 +39,36 @@ public class DeepestLeaveSum {
             traverse(node.right,level+1);
         }
 
+    }
+    private void findDepth(TreeNode node,int level)
+    {
+        if(level>depth)
+        {
+            depth=level;
+        }
+        if(node.left!=null)
+        {
+            findDepth(node.left,level+1);
+        }
+        if(node.right!=null)
+        {
+            findDepth(node.right,level+1);
+        }
+    }
+    private void updateSum(TreeNode node,int sum,int level)
+    {
+        if(level==depth)
+        {
+            sum+=node.val;
+        }
+        if(node.left!=null)
+        {
+            updateSum(node.left,sum,level+1);
+        }
+        if(node.right!=null)
+        {
+            updateSum(node.right,sum,level);
+        }
     }
 
 }

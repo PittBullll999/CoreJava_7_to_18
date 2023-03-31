@@ -1,17 +1,0 @@
-
-K
-java:S1854"5Remove this useless assignment to local variable "f".(Ð¿‹·
-<
-java:S1481"&Remove this unused "f" local variable.(Ð¿‹·
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¼€åøÿÿÿÿ
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ñ»‡ºÿÿÿÿÿ
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÙÂÿûÿÿÿÿ
-S	java:S106/"9Replace this use of System.out or System.err by a logger.(ù³Ã˜ÿÿÿÿÿ
-J
-java:S1128"4Remove this unused import 'reactor.core.Exceptions'.(È™È±
-X
-java:S1128"=Remove this unused import 'reactor.core.scheduler.Scheduler'.(ýÁëöýÿÿÿÿ
-T
-java:S1128	">Remove this unused import 'reactor.core.scheduler.Schedulers'.(¨à˜æ
-J
-java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ
