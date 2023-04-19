@@ -1,0 +1,11 @@
+
+p
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "tt".(¸•ÑŸ
+O
+java:S1854"9Remove this useless assignment to local variable "temp1".(œÆÕş
+@
+java:S1481"*Remove this unused "temp1" local variable.(œÆÕş
+@
+java:S1197"*Move the array designators [] to the type.(ÑÈ÷£
+A
+java:S1905"&Remove this unnecessary cast to "int".(Â•ûÿÿÿÿ
