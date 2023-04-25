@@ -1,0 +1,22 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û‹ÇÈ
+W
+java:S1854 "<Remove this useless assignment to local variable "nesList3".(‡ó·—ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(­·­øÿÿÿÿ
+H
+java:S1481 "-Remove this unused "nesList3" local variable.(‡ó·—ÿÿÿÿÿ
+h
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+i
+java:S1602$"SRemove useless curly braces around statement and then remove useless return keyword(©ŽïÜ
+n
+java:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(É’Åûÿÿÿÿ
+Z
+java:S1612%"?Replace this lambda with method reference 'Collection::stream'.(É’Åûÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(åªÄf
+S
+java:S1128"8Remove this unused import 'reactor.core.publisher.Flux'.(·äÍÆøÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'reactor.util.retry.Retry'.(ôáÚú
+J
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ

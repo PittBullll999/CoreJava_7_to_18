@@ -1,0 +1,17 @@
+
+9
+java:S16432"Use a StringBuilder instead.(ÓÊó¬8¹ä•÷0
+2
+java:S1643<"Use a StringBuilder instead.(¸‚—‚
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+f
+java:S11497"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¼“Ïº
+J
+java:S1854
+"5Remove this useless assignment to local variable "p".(ŠÑ$
+;
+java:S1481
+"&Remove this unused "p" local variable.(ŠÑ$
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(â£³ùÿÿÿÿ8ô©¢÷0
