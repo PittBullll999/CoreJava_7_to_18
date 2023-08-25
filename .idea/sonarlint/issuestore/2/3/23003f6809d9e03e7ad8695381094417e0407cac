@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äĞŞ’üÿÿÿÿ8À¦ìøˆ1
+L
+java:S1197"*Move the array designators [] to the type.(«äï•øÿÿÿÿ8Ğ¦ìøˆ1
+Z
+java:S1854"8Remove this useless assignment to local variable "list".(•ù–«ÿÿÿÿÿ8Ñ¦ìøˆ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(•ù–«ÿÿÿÿÿ8Ñ¦ìøˆ1
+K
+java:S1481")Remove this unused "list" local variable.(•ù–«ÿÿÿÿÿ8Ò¦ìøˆ1
+F
+java:S1481")Remove this unused "flag" local variable.(Ö°š·8Ò¦ìøˆ1
+I
+java:S1481",Remove this unused "current" local variable.(âƒç8Ò¦ìøˆ1
