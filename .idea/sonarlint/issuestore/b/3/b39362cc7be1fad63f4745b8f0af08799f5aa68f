@@ -1,0 +1,12 @@
+
+2
+java:S1643("Use a StringBuilder instead.(˜ñ³¨
+1
+java:S1643+"Use a StringBuilder instead.(‚†Ö)
+1
+java:S16434"Use a StringBuilder instead.(‚†Ö)
+2
+java:S16437"Use a StringBuilder instead.(˜ñ³¨
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¶ôÖ¢þÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
